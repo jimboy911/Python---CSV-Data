@@ -1,0 +1,1 @@
+This Python script searches through a list of csv headers and prints out their index number in the list
